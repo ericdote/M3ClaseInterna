@@ -104,7 +104,10 @@ public final class Tauler {
         } while (true);
     }
 }
-
+/**
+ * Clase interna dentro de la clase Tauler.
+ * @author Eric
+ */
 class Casella {
 
     private boolean estat;
